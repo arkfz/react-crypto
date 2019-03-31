@@ -1,0 +1,41 @@
+/* .Lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(85, 85, 85);
+}
+
+.Waluta {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 350px;
+  text-align: center;
+  border: 1px solid rgb(196, 192, 192);
+  margin: 20px 0 0;
+  padding: 10px;
+}
+
+.Element {
+  width: 25%;
+} */
+
+.Glowny {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  color: rgb(85, 85, 85);
+}
+
+.ElementDiv {
+  border: 1px solid rgb(196, 192, 192);
+  margin: 5px;
+  width: 20%;
+  padding-bottom: 15px;
+}

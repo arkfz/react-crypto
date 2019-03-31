@@ -48,16 +48,11 @@
 }
 
 .red:after {
-  content: " \2193";
+  content: " \25bc";
   color: red;
 }
 
 .green:after {
-  content: " \2191";
+  content: " \25ba";
   color: green;
-}
-
-.blue:after {
-  content: " \2194";
-  color: blue;
 }
